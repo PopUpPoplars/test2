@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/docs/lesson-plans/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/docs/garden-locations/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/docs/garden-protocols/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/docs/online-tools/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/blog/releases/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/blog/news/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/blog/2018/01/04/arboreta/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/blog/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/blog/2018/01/04/universities/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/index.json</loc>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/community/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/blog/1/01/01/jason-holliday/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/blog/1/01/01/jill-hamilton/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/blog/1/01/01/joe-braasch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/blog/1/01/01/matt-fitzpatrick/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/blog/1/01/01/steve-keller/</loc>
+  </url>
+  
+</urlset>

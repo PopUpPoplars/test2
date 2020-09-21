@@ -1,0 +1,25 @@
+{{ $links := .Site.Params.links }}
+
+<section class="row td-box td-box--4 td-box--gradient td-box--height-auto linkbox">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h2>PUBLICATIONS</h2>
+<p>
+Watch this space for publications from this project
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h2>MEDIA</h2>
+<p>
+
+2020 - WDAY Local ABC New Affiliate - <a href="https://www.inforum.com/news/science-and-nature/6563908-NDSU-gets-National-Science-Foundation-grant-to-study-what-trees-are-really-telling-us">NDSU gets National Science Foundation grant to study what trees are really telling us</a>
+</div>
+</section>
+
+{{ define "community-links-list" }}
+<ul>
+ {{ range . }}
+ <li title="{{ .name }}">
+   <a target="_blank" href="{{ .url }}"><i class="{{ .icon }}"></i> {{ .name }}:</a> {{ .desc }}
+ </li>
+  {{ end }}
+</ul>
+{{ end }}

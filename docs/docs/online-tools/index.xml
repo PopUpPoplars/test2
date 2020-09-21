@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PopUp Poplars – Online Tools</title>
+    <link>https://joebraasch.github.io/test2/docs/online-tools/</link>
+    <description>Recent content in Online Tools on PopUp Poplars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://joebraasch.github.io/test2/docs/online-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

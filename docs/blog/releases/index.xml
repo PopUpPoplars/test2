@@ -1,0 +1,48 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PopUp Poplars – Institutions</title>
+    <link>https://joebraasch.github.io/test2/blog/releases/</link>
+    <description>Recent content in Institutions on PopUp Poplars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://joebraasch.github.io/test2/blog/releases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Blog: Arboreta</title>
+      <link>https://joebraasch.github.io/test2/blog/2018/01/04/arboreta/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://joebraasch.github.io/test2/blog/2018/01/04/arboreta/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Information about and links to aboreta&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Blog: Universities</title>
+      <link>https://joebraasch.github.io/test2/blog/2018/01/04/universities/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://joebraasch.github.io/test2/blog/2018/01/04/universities/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Information and links for participating universities&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ndsu.edu/biology/&#34;&gt;North Dakota State University Department of Biological Sciences&lt;/a&gt; and &lt;a href=&#34;https://www.ag.ndsu.edu/research&#34;&gt;Agricultural Experimental Station&lt;/a&gt;
+&lt;a href=&#34;https://www.smsu.edu/academics/programs/biology/index.html&#34;&gt;Southwest Minnesota State University&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
