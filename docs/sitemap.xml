@@ -53,11 +53,6 @@
   </url>
   
   <url>
-    <loc>https://joebraasch.github.io/test2/community/</loc>
-    <lastmod>2020-09-21T16:01:50-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://joebraasch.github.io/test2/blog/1/01/01/jason-holliday/</loc>
     <lastmod>2020-09-21T16:01:50-05:00</lastmod>
   </url>
@@ -84,6 +79,11 @@
   
   <url>
     <loc>https://joebraasch.github.io/test2/</loc>
+    <lastmod>2020-09-21T16:01:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://joebraasch.github.io/test2/community/</loc>
     <lastmod>2020-09-21T16:01:50-05:00</lastmod>
   </url>
   

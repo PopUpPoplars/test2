@@ -1,5 +1,5 @@
 ---
-title: Community
+title: Publications and Media
 menu:
   main:
     weight: 40
